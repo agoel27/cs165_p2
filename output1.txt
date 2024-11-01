@@ -1,0 +1,4 @@
+USER_NEW for index 777 type  and name/id 012345678901234567890123456789: result 0
+USER_ADD for user 777 and type 0 to add info HALLOWEEN_nights_are_scary: result 0
+****** student (777): 012345678901234567890123456789HALLOWEEN_nights_are_scary *******
+USER_DISPLAY for user 777(0) : result 0
