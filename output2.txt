@@ -1,3 +1,2 @@
-USER_NEW for index 777 type 0 and name/id 1234\x40\x85\x04\x08: result 0
-****** student (777): 1234\x40\x85\x04\x08 *******
-USER_DISPLAY for user 777(0) : result 0
+USER_NEW for index 777 type 0 and name/id 1234@…: result 0
+USER_ADD for user 777 and type 1 to add info halloween_ghosts_booo: result 21

@@ -1,0 +1,3 @@
+USER_NEW for index 777 type 0 and name/id alice: result 0
+USER_CHANGE for user 777 and type 0 to add secret 1234À• : result 0
+USER_ADD for user 777 and type 1 to add info halloween: result 0
