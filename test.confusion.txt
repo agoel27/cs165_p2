@@ -1,2 +1,2 @@
-u 777 0 1234@ï¿½
+u 777 0 1234@…
 a 777 1 halloween_ghosts_booo
