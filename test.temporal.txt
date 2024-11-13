@@ -1,0 +1,7 @@
+user 1 0 Dave
+add 1 0 Dave's_secret
+
+remove 1
+
+user 2 0 UAFerUAFerUAFer_'s_secret_is:_
+dispay 2
