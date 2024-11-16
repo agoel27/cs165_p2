@@ -1,0 +1,6 @@
+USER_NEW for index 1 type 0 and name/id Dave: result 0
+USER_ADD for user 1 and type 0 to add info Dave's_secret: result 0
+USER_REMOVE for user 1(0) : result 0
+USER_NEW for index 2 type  and name/id UAFerUAFerUAFer_'s_secret_is:_: result 0
+****** student (2): UAFerUAFerUAFer_'s_secret_is:_Dave's_secret *******
+USER_DISPLAY for user 2(0) : result 0
